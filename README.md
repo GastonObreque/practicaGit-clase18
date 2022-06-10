@@ -4,6 +4,6 @@
 
 - Cristian Jara
 
-- Obreque Gaston
+- Obreque Gaston, 26 años, Neuquén/ Cutral-Có
 
 - Verónica Velazco 
