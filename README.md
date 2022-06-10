@@ -6,4 +6,4 @@
 
 - Obreque Gaston
 
-- 
+- Verónica Velazco 
