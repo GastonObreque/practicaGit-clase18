@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-- Cristian Jara
+- Cristian Jara, 36, Lanús.
 
 - Obreque Gaston
 
