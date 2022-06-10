@@ -6,4 +6,4 @@
 
 - Obreque Gaston
 
-- Verónica Velazco 
+- Verónica Velazco, 35 años, San Miguel, Buenos Aires.
