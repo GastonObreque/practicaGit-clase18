@@ -1,6 +1,6 @@
 const contacto = require ('./contacto');
 const enCartelera = require ('./enCartelera');
-const homePage = require ('./practicaGit-clase18/src/homePage');
+const homePage = require ('./homePage');
 const masVotadas = require ('./masVotadas');
 const preguntasFrecuentes = require ('./preguntasFrecuentes');
 const sucursales = require ('./sucursales');
